@@ -31,7 +31,9 @@ twitter_username: NA
 github_username:  JoshuaGoth
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: broccolini/swiss
+#theme: no-style-please
 plugins:
   - jekyll-feed
 
