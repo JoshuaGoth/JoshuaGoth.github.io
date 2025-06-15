@@ -1,1 +1,0 @@
-# joshuagoth.github.io
