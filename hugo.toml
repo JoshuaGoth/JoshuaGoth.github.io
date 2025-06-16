@@ -1,4 +1,4 @@
-baseURL = 'https://github.joshuagoth.com'
+baseURL = 'http://github.joshuagoth.com'
 languageCode = 'en-us'
 title = 'The Web-Dev Journey'
 theme = 'hugo-theme-til'
