@@ -1,0 +1,8 @@
+exampleSite/
+layouts/_default/_markup/render-heading.html
+layouts/partials/pagination.html
+layouts/posts/list.html
+assets/js/main.js
+node_modules/
+CHANGELOG.md
+.chglog/
