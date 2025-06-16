@@ -2,10 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Web-Dev Journey</title>
-    <link>https://github.joshuagoth.com/tags/</link>
+    <link>http://10.0.10.95:1313/tags/</link>
     <description>Recent content in Tags on The Web-Dev Journey</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://github.joshuagoth.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+    <webMaster>johndoe@example.com (John Doe)</webMaster>
+    <atom:link href="http://10.0.10.95:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

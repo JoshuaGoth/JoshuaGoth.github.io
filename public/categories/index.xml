@@ -2,10 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Web-Dev Journey</title>
-    <link>https://github.joshuagoth.com/categories/</link>
+    <link>http://10.0.10.95:1313/categories/</link>
     <description>Recent content in Categories on The Web-Dev Journey</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://github.joshuagoth.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+    <webMaster>johndoe@example.com (John Doe)</webMaster>
+    <lastBuildDate>Sun, 15 Jun 2025 19:19:49 -0700</lastBuildDate>
+    <atom:link href="http://10.0.10.95:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTML</title>
+      <link>http://10.0.10.95:1313/categories/html/</link>
+      <pubDate>Sun, 15 Jun 2025 19:19:49 -0700</pubDate><author>johndoe@example.com (John Doe)</author>
+      <guid>http://10.0.10.95:1313/categories/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://10.0.10.95:1313/categories/technology/</link>
+      <pubDate>Sun, 15 Jun 2025 18:00:44 -0700</pubDate><author>johndoe@example.com (John Doe)</author>
+      <guid>http://10.0.10.95:1313/categories/technology/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,42 @@
+{
+  "graph": {
+    "/notes/new-testing-note/": {
+      "in": [],
+      "out": []
+    },
+    "/posts/my-first-post/": {
+      "in": [],
+      "out": []
+    },
+    "/posts/second-test-blog/": {
+      "in": [],
+      "out": []
+    },
+    "/posts/third-test-post/": {
+      "in": [],
+      "out": []
+    }
+  },
+  "pages": {
+    "/notes/new-testing-note/": {
+      "permalink": "/notes/new-testing-note/",
+      "section": "notes",
+      "title": "New Testing Note"
+    },
+    "/posts/my-first-post/": {
+      "permalink": "/posts/my-first-post/",
+      "section": "posts",
+      "title": "My First Post"
+    },
+    "/posts/second-test-blog/": {
+      "permalink": "/posts/second-test-blog/",
+      "section": "posts",
+      "title": "Second Test Blog"
+    },
+    "/posts/third-test-post/": {
+      "permalink": "/posts/third-test-post/",
+      "section": "posts",
+      "title": "Third Test Post"
+    }
+  }
+}

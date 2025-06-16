@@ -2,17 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.joshuagoth.com/posts/my-first-post/</loc>
+    <loc>http://10.0.10.95:1313/categories/</loc>
+    <lastmod>2025-06-15T19:19:49-07:00</lastmod>
+  </url><url>
+    <loc>http://10.0.10.95:1313/categories/html/</loc>
+    <lastmod>2025-06-15T19:19:49-07:00</lastmod>
+  </url><url>
+    <loc>http://10.0.10.95:1313/notes/new-testing-note/</loc>
+    <lastmod>2025-06-15T19:19:49-07:00</lastmod>
+  </url><url>
+    <loc>http://10.0.10.95:1313/notes/</loc>
+    <lastmod>2025-06-15T19:19:49-07:00</lastmod>
+  </url><url>
+    <loc>http://10.0.10.95:1313/</loc>
+    <lastmod>2025-06-15T19:19:49-07:00</lastmod>
+  </url><url>
+    <loc>http://10.0.10.95:1313/posts/</loc>
+    <lastmod>2025-06-15T18:35:49-07:00</lastmod>
+  </url><url>
+    <loc>http://10.0.10.95:1313/posts/third-test-post/</loc>
+    <lastmod>2025-06-15T18:35:49-07:00</lastmod>
+  </url><url>
+    <loc>http://10.0.10.95:1313/posts/second-test-blog/</loc>
+    <lastmod>2025-06-15T18:00:44-07:00</lastmod>
+  </url><url>
+    <loc>http://10.0.10.95:1313/categories/technology/</loc>
+    <lastmod>2025-06-15T18:00:44-07:00</lastmod>
+  </url><url>
+    <loc>http://10.0.10.95:1313/posts/my-first-post/</loc>
     <lastmod>2025-06-15T07:50:40-07:00</lastmod>
   </url><url>
-    <loc>https://github.joshuagoth.com/posts/</loc>
-    <lastmod>2025-06-15T07:50:40-07:00</lastmod>
-  </url><url>
-    <loc>https://github.joshuagoth.com/</loc>
-    <lastmod>2025-06-15T07:50:40-07:00</lastmod>
-  </url><url>
-    <loc>https://github.joshuagoth.com/categories/</loc>
-  </url><url>
-    <loc>https://github.joshuagoth.com/tags/</loc>
+    <loc>http://10.0.10.95:1313/graph/</loc>
   </url>
 </urlset>
