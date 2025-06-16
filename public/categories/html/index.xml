@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HTML on The Web-Dev Journey</title>
-    <link>http://10.0.10.95:1313/categories/html/</link>
+    <link>http://github.joshuagoth.com/categories/html/</link>
     <description>Recent content in HTML on The Web-Dev Journey</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>johndoe@example.com (John Doe)</managingEditor>
     <webMaster>johndoe@example.com (John Doe)</webMaster>
     <lastBuildDate>Sun, 15 Jun 2025 19:19:49 -0700</lastBuildDate>
-    <atom:link href="http://10.0.10.95:1313/categories/html/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://github.joshuagoth.com/categories/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Testing Note</title>
-      <link>http://10.0.10.95:1313/notes/new-testing-note/</link>
+      <link>http://github.joshuagoth.com/notes/new-testing-note/</link>
       <pubDate>Sun, 15 Jun 2025 19:19:49 -0700</pubDate><author>johndoe@example.com (John Doe)</author>
-      <guid>http://10.0.10.95:1313/notes/new-testing-note/</guid>
+      <guid>http://github.joshuagoth.com/notes/new-testing-note/</guid>
       <description>&lt;p&gt;#Testing&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Testing&lt;/em&gt; words. words&lt;/p&gt;</description>
     </item>
     <item>
       <title>Third Test Post</title>
-      <link>http://10.0.10.95:1313/posts/third-test-post/</link>
+      <link>http://github.joshuagoth.com/posts/third-test-post/</link>
       <pubDate>Sun, 15 Jun 2025 18:35:49 -0700</pubDate><author>johndoe@example.com (John Doe)</author>
-      <guid>http://10.0.10.95:1313/posts/third-test-post/</guid>
+      <guid>http://github.joshuagoth.com/posts/third-test-post/</guid>
       <description>&lt;h2 id=&#34;creating-html-category&#34; class=&#34;scroll-mt-8 group&#34;&gt;&#xA;  Creating HTML Category&#xA;  &#xA;    &lt;a href=&#34;#creating-html-category&#34;&#xA;        class=&#34;no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block&#34;&#xA;        aria-hidden=&#34;true&#34; title=&#34;Link to this heading&#34; tabindex=&#34;-1&#34;&gt;&#xA;        &lt;svg&#xA;  xmlns=&#34;http://www.w3.org/2000/svg&#34;&#xA;  width=&#34;16&#34;&#xA;  height=&#34;16&#34;&#xA;  fill=&#34;none&#34;&#xA;  stroke=&#34;currentColor&#34;&#xA;  stroke-linecap=&#34;round&#34;&#xA;  stroke-linejoin=&#34;round&#34;&#xA;  stroke-width=&#34;2&#34;&#xA;  class=&#34;lucide lucide-link w-4 h-4 block&#34;&#xA;  viewBox=&#34;0 0 24 24&#34;&#xA;&gt;&#xA;  &lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; /&gt;&#xA;  &lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; /&gt;&#xA;&lt;/svg&gt;&#xA;&#xA;    &lt;/a&gt;&#xA;  &#xA;&lt;/h2&gt;&#xA;&lt;h4 id=&#34;content&#34; class=&#34;scroll-mt-8 group&#34;&gt;&#xA;  Content&#xA;  &#xA;    &lt;a href=&#34;#content&#34;&#xA;        class=&#34;no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block&#34;&#xA;        aria-hidden=&#34;true&#34; title=&#34;Link to this heading&#34; tabindex=&#34;-1&#34;&gt;&#xA;        &lt;svg&#xA;  xmlns=&#34;http://www.w3.org/2000/svg&#34;&#xA;  width=&#34;16&#34;&#xA;  height=&#34;16&#34;&#xA;  fill=&#34;none&#34;&#xA;  stroke=&#34;currentColor&#34;&#xA;  stroke-linecap=&#34;round&#34;&#xA;  stroke-linejoin=&#34;round&#34;&#xA;  stroke-width=&#34;2&#34;&#xA;  class=&#34;lucide lucide-link w-4 h-4 block&#34;&#xA;  viewBox=&#34;0 0 24 24&#34;&#xA;&gt;&#xA;  &lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; /&gt;&#xA;  &lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; /&gt;&#xA;&lt;/svg&gt;&#xA;&#xA;    &lt;/a&gt;&#xA;  &#xA;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt; words. words words&lt;/p&gt;</description>
     </item>
   </channel>

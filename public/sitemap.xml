@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://10.0.10.95:1313/categories/</loc>
+    <loc>http://github.joshuagoth.com/categories/</loc>
     <lastmod>2025-06-15T19:19:49-07:00</lastmod>
   </url><url>
-    <loc>http://10.0.10.95:1313/categories/html/</loc>
+    <loc>http://github.joshuagoth.com/categories/html/</loc>
     <lastmod>2025-06-15T19:19:49-07:00</lastmod>
   </url><url>
-    <loc>http://10.0.10.95:1313/notes/new-testing-note/</loc>
+    <loc>http://github.joshuagoth.com/notes/new-testing-note/</loc>
     <lastmod>2025-06-15T19:19:49-07:00</lastmod>
   </url><url>
-    <loc>http://10.0.10.95:1313/notes/</loc>
+    <loc>http://github.joshuagoth.com/notes/</loc>
     <lastmod>2025-06-15T19:19:49-07:00</lastmod>
   </url><url>
-    <loc>http://10.0.10.95:1313/</loc>
+    <loc>http://github.joshuagoth.com/</loc>
     <lastmod>2025-06-15T19:19:49-07:00</lastmod>
   </url><url>
-    <loc>http://10.0.10.95:1313/posts/</loc>
+    <loc>http://github.joshuagoth.com/posts/</loc>
     <lastmod>2025-06-15T18:35:49-07:00</lastmod>
   </url><url>
-    <loc>http://10.0.10.95:1313/posts/third-test-post/</loc>
+    <loc>http://github.joshuagoth.com/posts/third-test-post/</loc>
     <lastmod>2025-06-15T18:35:49-07:00</lastmod>
   </url><url>
-    <loc>http://10.0.10.95:1313/posts/second-test-blog/</loc>
+    <loc>http://github.joshuagoth.com/posts/second-test-blog/</loc>
     <lastmod>2025-06-15T18:00:44-07:00</lastmod>
   </url><url>
-    <loc>http://10.0.10.95:1313/categories/technology/</loc>
+    <loc>http://github.joshuagoth.com/categories/technology/</loc>
     <lastmod>2025-06-15T18:00:44-07:00</lastmod>
   </url><url>
-    <loc>http://10.0.10.95:1313/posts/my-first-post/</loc>
+    <loc>http://github.joshuagoth.com/posts/my-first-post/</loc>
     <lastmod>2025-06-15T07:50:40-07:00</lastmod>
   </url><url>
-    <loc>http://10.0.10.95:1313/graph/</loc>
+    <loc>http://github.joshuagoth.com/graph/</loc>
   </url>
 </urlset>
