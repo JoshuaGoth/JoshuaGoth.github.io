@@ -1,3 +1,6 @@
 [submodule "hugo-theme-til"]
 	path = hugo-theme-til
 	url = https://github.com/JoshuaGoth/hugo-theme-til.git
+[submodule "til-example-site"]
+	path = til-example-site
+	url = https://github.com/michenriksen/til-example-site.git
