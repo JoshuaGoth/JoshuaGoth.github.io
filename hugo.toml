@@ -48,8 +48,8 @@ enableRobotsTXT = true # IMPORTANT: set to true if you want to use the theme's g
 
   # Author details for the JSON-LD structured data.
   [params.author]
-    name = 'John Doe'
-    email = 'johndoe@example.com'
+    name = 'Joshua Goth'
+    email = 'me@joshuagoth.com'
 
   # Homepage setup
   [params.home]
