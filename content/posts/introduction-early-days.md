@@ -1,6 +1,6 @@
 +++
 date = '2025-06-18T15:04:27-07:00'
-draft = true
+draft = false
 title = 'Introduction Early Days'
 categories = ["Journey"]
 +++
