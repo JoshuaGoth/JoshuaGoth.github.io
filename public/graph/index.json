@@ -4,15 +4,11 @@
       "in": [],
       "out": []
     },
-    "/posts/my-first-post/": {
+    "/posts/day-3/": {
       "in": [],
       "out": []
     },
-    "/posts/second-test-blog/": {
-      "in": [],
-      "out": []
-    },
-    "/posts/third-test-post/": {
+    "/posts/introduction-early-days/": {
       "in": [],
       "out": []
     }
@@ -23,20 +19,15 @@
       "section": "notes",
       "title": "New Testing Note"
     },
-    "/posts/my-first-post/": {
-      "permalink": "/posts/my-first-post/",
+    "/posts/day-3/": {
+      "permalink": "/posts/day-3/",
       "section": "posts",
-      "title": "My First Post"
+      "title": "Day 3"
     },
-    "/posts/second-test-blog/": {
-      "permalink": "/posts/second-test-blog/",
+    "/posts/introduction-early-days/": {
+      "permalink": "/posts/introduction-early-days/",
       "section": "posts",
-      "title": "Second Test Blog"
-    },
-    "/posts/third-test-post/": {
-      "permalink": "/posts/third-test-post/",
-      "section": "posts",
-      "title": "Third Test Post"
+      "title": "Introduction Early Days"
     }
   }
 }

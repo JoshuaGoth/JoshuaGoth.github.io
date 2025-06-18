@@ -6,14 +6,14 @@
     <description>Recent content in Notes on The Web-Dev Journey</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-    <webMaster>johndoe@example.com (John Doe)</webMaster>
+    <managingEditor>me@joshuagoth.com (Joshua Goth)</managingEditor>
+    <webMaster>me@joshuagoth.com (Joshua Goth)</webMaster>
     <lastBuildDate>Sun, 15 Jun 2025 19:19:49 -0700</lastBuildDate>
     <atom:link href="http://github.joshuagoth.com/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Testing Note</title>
       <link>http://github.joshuagoth.com/notes/new-testing-note/</link>
-      <pubDate>Sun, 15 Jun 2025 19:19:49 -0700</pubDate><author>johndoe@example.com (John Doe)</author>
+      <pubDate>Sun, 15 Jun 2025 19:19:49 -0700</pubDate><author>me@joshuagoth.com (Joshua Goth)</author>
       <guid>http://github.joshuagoth.com/notes/new-testing-note/</guid>
       <description>&lt;p&gt;#Testing&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Testing&lt;/em&gt; words. words&lt;/p&gt;</description>
     </item>

@@ -6,22 +6,22 @@
     <description>Recent content in Categories on The Web-Dev Journey</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-    <webMaster>johndoe@example.com (John Doe)</webMaster>
-    <lastBuildDate>Sun, 15 Jun 2025 19:19:49 -0700</lastBuildDate>
+    <managingEditor>me@joshuagoth.com (Joshua Goth)</managingEditor>
+    <webMaster>me@joshuagoth.com (Joshua Goth)</webMaster>
+    <lastBuildDate>Wed, 18 Jun 2025 16:35:17 -0700</lastBuildDate>
     <atom:link href="http://github.joshuagoth.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HTML</title>
-      <link>http://github.joshuagoth.com/categories/html/</link>
-      <pubDate>Sun, 15 Jun 2025 19:19:49 -0700</pubDate><author>johndoe@example.com (John Doe)</author>
-      <guid>http://github.joshuagoth.com/categories/html/</guid>
+      <title>Journey</title>
+      <link>http://github.joshuagoth.com/categories/journey/</link>
+      <pubDate>Wed, 18 Jun 2025 16:35:17 -0700</pubDate><author>me@joshuagoth.com (Joshua Goth)</author>
+      <guid>http://github.joshuagoth.com/categories/journey/</guid>
       <description></description>
     </item>
     <item>
-      <title>Technology</title>
-      <link>http://github.joshuagoth.com/categories/technology/</link>
-      <pubDate>Sun, 15 Jun 2025 18:00:44 -0700</pubDate><author>johndoe@example.com (John Doe)</author>
-      <guid>http://github.joshuagoth.com/categories/technology/</guid>
+      <title>HTML</title>
+      <link>http://github.joshuagoth.com/categories/html/</link>
+      <pubDate>Sun, 15 Jun 2025 19:19:49 -0700</pubDate><author>me@joshuagoth.com (Joshua Goth)</author>
+      <guid>http://github.joshuagoth.com/categories/html/</guid>
       <description></description>
     </item>
   </channel>

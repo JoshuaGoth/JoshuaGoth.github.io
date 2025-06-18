@@ -19,7 +19,4 @@ I am using [This Template by Mich Enriksen](https://michenriksen.com/til-example
 As the night comes to a close, I have landed on CSS, and I know I will be spending a great deal of time in order to find myself comfortable enough to move onto JavaScript. So far, The Odin Project has been a great tool, and the links that are provided are on par with the learning material--which I am very impressed with. 
 
 ~Cheers
-{{< backlink [[The Beginning of My Web Development Journey]] >}}
-{{< backlink "introduction-early-days" "The Beginning" >}}
-{{< backlink [[The Beginning of My Web Development Journey]] >}}
 
