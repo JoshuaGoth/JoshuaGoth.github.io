@@ -35,7 +35,8 @@ enableRobotsTXT = true # IMPORTANT: set to true if you want to use the theme's g
 
 [taxonomies]
   category = "categories"
-
+  author = "authors"
+  tag = "tags"
 [params]
   # Set how dates should appear across the site.
   # For format options, visit https://gohugo.io/functions/time/format/
