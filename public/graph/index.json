@@ -1,5 +1,9 @@
 {
   "graph": {
+    "/notes/hugo-server/": {
+      "in": [],
+      "out": []
+    },
     "/notes/new-testing-note/": {
       "in": [],
       "out": []
@@ -26,6 +30,11 @@
     }
   },
   "pages": {
+    "/notes/hugo-server/": {
+      "permalink": "/notes/hugo-server/",
+      "section": "notes",
+      "title": "Hugo Server"
+    },
     "/notes/new-testing-note/": {
       "permalink": "/notes/new-testing-note/",
       "section": "notes",

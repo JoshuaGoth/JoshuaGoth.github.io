@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notes on The Web-Dev Journey</title>
-    <link>http://github.joshuagoth.com/notes/</link>
-    <description>Recent content in Notes on The Web-Dev Journey</description>
+    <title>Hugo on The Web-Dev Journey</title>
+    <link>http://github.joshuagoth.com/categories/hugo/</link>
+    <description>Recent content in Hugo on The Web-Dev Journey</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>me@joshuagoth.com (Joshua Goth)</managingEditor>
     <webMaster>me@joshuagoth.com (Joshua Goth)</webMaster>
     <lastBuildDate>Wed, 18 Jun 2025 19:11:24 -0700</lastBuildDate>
-    <atom:link href="http://github.joshuagoth.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://github.joshuagoth.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Server</title>
       <link>http://github.joshuagoth.com/notes/hugo-server/</link>
       <pubDate>Wed, 18 Jun 2025 19:11:24 -0700</pubDate><author>me@joshuagoth.com (Joshua Goth)</author>
       <guid>http://github.joshuagoth.com/notes/hugo-server/</guid>
       <description>&lt;p&gt;#How to run Hugo on LAN instead of just localhost&#xA;hugo server &amp;ndash;bind 0.0.0.0 &amp;ndash;baseURL http://&lt;!-- raw HTML omitted --&gt;:1313&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New Testing Note</title>
-      <link>http://github.joshuagoth.com/notes/new-testing-note/</link>
-      <pubDate>Sun, 15 Jun 2025 19:19:49 -0700</pubDate><author>me@joshuagoth.com (Joshua Goth)</author>
-      <guid>http://github.joshuagoth.com/notes/new-testing-note/</guid>
-      <description>&lt;p&gt;#Testing&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Testing&lt;/em&gt; words. words&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
