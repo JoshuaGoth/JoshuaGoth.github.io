@@ -12,6 +12,10 @@
       "in": [],
       "out": []
     },
+    "/posts/day-5/": {
+      "in": [],
+      "out": []
+    },
     "/posts/introduction-early-days/": {
       "in": [],
       "out": []
@@ -32,6 +36,11 @@
       "permalink": "/posts/day-4/",
       "section": "posts",
       "title": "Day 4"
+    },
+    "/posts/day-5/": {
+      "permalink": "/posts/day-5/",
+      "section": "posts",
+      "title": "Day 5"
     },
     "/posts/introduction-early-days/": {
       "permalink": "/posts/introduction-early-days/",

@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>me@joshuagoth.com (Joshua Goth)</managingEditor>
     <webMaster>me@joshuagoth.com (Joshua Goth)</webMaster>
-    <lastBuildDate>Wed, 18 Jun 2025 16:59:24 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 18:31:38 -0700</lastBuildDate>
     <atom:link href="http://github.joshuagoth.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 5</title>
+      <link>http://github.joshuagoth.com/posts/day-5/</link>
+      <pubDate>Wed, 18 Jun 2025 18:31:38 -0700</pubDate><author>me@joshuagoth.com (Joshua Goth)</author>
+      <guid>http://github.joshuagoth.com/posts/day-5/</guid>
+      <description>&lt;p&gt;#Day 5&#xA;I have found that I am struggling with CSS, so venturing out to other suggested links by &lt;em&gt;The Odin Project&lt;/em&gt; in&#xA;order to aid me on my quest. I am going to put advancing through the assignments on hold until I can confidently&#xA;grasp and feel comfortable using CSS. &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors&#34;&gt;MDN Web&#xA;Docs&lt;/a&gt; has a&#xA;plethora of great information for beginners.&#xA;&lt;a href=&#34;https://www.w3schools.com/cssref/css_colors_legal.php&#34;&gt;W3Schools.com&lt;/a&gt; has been helpful as well.&#xA;&lt;a href=&#34;https://www.frontendmentor.io&#34;&gt;Frontendmentor.io&lt;/a&gt; I have not dug too far into this site, and while it looks very&#xA;well structured and informative, I am afraid that most of the useful contents are hid behind a paywall. I may&#xA;check this out eventually though. &lt;a href=&#34;https://cssreference.io/&#34;&gt;CSSReference.io&lt;/a&gt; Good reference for individual and&#xA;in-depth examples of CSS usage. &lt;a href=&#34;https://web.dev/learn/css/&#34;&gt;Web.Dev&lt;/a&gt; By far the best reference that I have found&#xA;so far, next to MDN. Real examples and easy to follow along tutorials. Much of my time catching up on CSS will be&#xA;done here, I am sure. Until Tomorrow!&#xA;~Cheers&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Day 4</title>
       <link>http://github.joshuagoth.com/posts/day-4/</link>
