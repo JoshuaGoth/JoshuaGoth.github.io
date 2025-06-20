@@ -8,8 +8,22 @@
     <language>en-us</language>
     <managingEditor>me@joshuagoth.com (Joshua Goth)</managingEditor>
     <webMaster>me@joshuagoth.com (Joshua Goth)</webMaster>
-    <lastBuildDate>Wed, 18 Jun 2025 18:48:16 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 00:15:36 -0700</lastBuildDate>
     <atom:link href="http://github.joshuagoth.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 8</title>
+      <link>http://github.joshuagoth.com/posts/day-8/</link>
+      <pubDate>Fri, 20 Jun 2025 00:15:36 -0700</pubDate><author>me@joshuagoth.com (Joshua Goth)</author>
+      <guid>http://github.joshuagoth.com/posts/day-8/</guid>
+      <description>&lt;h2 id=&#34;day-8&#34; class=&#34;scroll-mt-8 group&#34;&gt;&#xA;  Day 8&#xA;  &#xA;    &lt;a href=&#34;#day-8&#34;&#xA;        class=&#34;no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block&#34;&#xA;        aria-hidden=&#34;true&#34; title=&#34;Link to this heading&#34; tabindex=&#34;-1&#34;&gt;&#xA;        &lt;svg&#xA;  xmlns=&#34;http://www.w3.org/2000/svg&#34;&#xA;  width=&#34;16&#34;&#xA;  height=&#34;16&#34;&#xA;  fill=&#34;none&#34;&#xA;  stroke=&#34;currentColor&#34;&#xA;  stroke-linecap=&#34;round&#34;&#xA;  stroke-linejoin=&#34;round&#34;&#xA;  stroke-width=&#34;2&#34;&#xA;  class=&#34;lucide lucide-link w-4 h-4 block&#34;&#xA;  viewBox=&#34;0 0 24 24&#34;&#xA;&gt;&#xA;  &lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; /&gt;&#xA;  &lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; /&gt;&#xA;&lt;/svg&gt;&#xA;&#xA;    &lt;/a&gt;&#xA;  &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I am feeling pretty comfortable with what I have learned in CSS so far, at least comfortable enough to continue on with &lt;a href=&#34;https://www.theodinproject.com/dashboard&#34;&gt;&lt;em&gt;The Odin Project&lt;/em&gt;&lt;/a&gt;training courses. At last, the moment I&amp;rsquo;ve all been waiting for&amp;ndash;JavaScript; The ability to start creating interactive pages, and the reason I became interested in web development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day 7</title>
+      <link>http://github.joshuagoth.com/posts/day-7/</link>
+      <pubDate>Thu, 19 Jun 2025 12:48:08 -0700</pubDate><author>me@joshuagoth.com (Joshua Goth)</author>
+      <guid>http://github.joshuagoth.com/posts/day-7/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;More CSS practicing&lt;/strong&gt;. Building quick little HTML pages so that I can modify the CSS with, at least, the basics (for now). I have dug deeper into flex containers, and getting my head wrapped around them.&lt;/p&gt;&#xA;&lt;p&gt;Most of this morning has been with updating my primary &lt;a href=&#34;https://JoshuaGoth.com&#34;&gt;Blog&lt;/a&gt;, as I am still working on my time management skills.&lt;/p&gt;&#xA;&lt;p&gt;I did find a cute, helpful game for flex-containers though &lt;a href=&#34;https://flexboxfroggy.com&#34; title=&#34;Takes me back to the 5th grade.&#34;&gt;FlexBoxFroggy&lt;/a&gt;. Unfortunately, no matter how many ergonomic devices I have, my condition still causes my left arm to go numb, so I need to step away from the computer from time to time, but that doesn&amp;rsquo;t mean I cant optimize my time and learn on another medium, as there are a slew of Web Development learning applications for the iPad.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Day 6</title>
       <link>http://github.joshuagoth.com/posts/day-6/</link>

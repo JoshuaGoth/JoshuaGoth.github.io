@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://github.joshuagoth.com/categories/blog/</loc>
-    <lastmod>2025-06-18T19:11:24-07:00</lastmod>
-  </url><url>
     <loc>http://github.joshuagoth.com/categories/</loc>
+    <lastmod>2025-06-20T00:15:36-07:00</lastmod>
+  </url><url>
+    <loc>http://github.joshuagoth.com/posts/day-8/</loc>
+    <lastmod>2025-06-20T00:15:36-07:00</lastmod>
+  </url><url>
+    <loc>http://github.joshuagoth.com/categories/journey/</loc>
+    <lastmod>2025-06-20T00:15:36-07:00</lastmod>
+  </url><url>
+    <loc>http://github.joshuagoth.com/posts/</loc>
+    <lastmod>2025-06-20T00:15:36-07:00</lastmod>
+  </url><url>
+    <loc>http://github.joshuagoth.com/</loc>
+    <lastmod>2025-06-20T00:15:36-07:00</lastmod>
+  </url><url>
+    <loc>http://github.joshuagoth.com/posts/day-7/</loc>
+    <lastmod>2025-06-19T12:48:08-07:00</lastmod>
+  </url><url>
+    <loc>http://github.joshuagoth.com/categories/blog/</loc>
     <lastmod>2025-06-18T19:11:24-07:00</lastmod>
   </url><url>
     <loc>http://github.joshuagoth.com/categories/hugo/</loc>
@@ -20,16 +35,7 @@
     <loc>http://github.joshuagoth.com/categories/server/</loc>
     <lastmod>2025-06-18T19:11:24-07:00</lastmod>
   </url><url>
-    <loc>http://github.joshuagoth.com/</loc>
-    <lastmod>2025-06-18T19:11:24-07:00</lastmod>
-  </url><url>
     <loc>http://github.joshuagoth.com/posts/day-6/</loc>
-    <lastmod>2025-06-18T18:48:16-07:00</lastmod>
-  </url><url>
-    <loc>http://github.joshuagoth.com/categories/journey/</loc>
-    <lastmod>2025-06-18T18:48:16-07:00</lastmod>
-  </url><url>
-    <loc>http://github.joshuagoth.com/posts/</loc>
     <lastmod>2025-06-18T18:48:16-07:00</lastmod>
   </url><url>
     <loc>http://github.joshuagoth.com/posts/day-5/</loc>

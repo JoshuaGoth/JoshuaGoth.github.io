@@ -24,6 +24,14 @@
       "in": [],
       "out": []
     },
+    "/posts/day-7/": {
+      "in": [],
+      "out": []
+    },
+    "/posts/day-8/": {
+      "in": [],
+      "out": []
+    },
     "/posts/introduction-early-days/": {
       "in": [],
       "out": []
@@ -59,6 +67,16 @@
       "permalink": "/posts/day-6/",
       "section": "posts",
       "title": "Day 6"
+    },
+    "/posts/day-7/": {
+      "permalink": "/posts/day-7/",
+      "section": "posts",
+      "title": "Day 7"
+    },
+    "/posts/day-8/": {
+      "permalink": "/posts/day-8/",
+      "section": "posts",
+      "title": "Day 8"
     },
     "/posts/introduction-early-days/": {
       "permalink": "/posts/introduction-early-days/",
