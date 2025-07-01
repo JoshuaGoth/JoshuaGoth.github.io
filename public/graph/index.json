@@ -35,6 +35,10 @@
     "/posts/introduction-early-days/": {
       "in": [],
       "out": []
+    },
+    "/posts/week-2/": {
+      "in": [],
+      "out": []
     }
   },
   "pages": {
@@ -82,6 +86,11 @@
       "permalink": "/posts/introduction-early-days/",
       "section": "posts",
       "title": "Introduction Early Days"
+    },
+    "/posts/week-2/": {
+      "permalink": "/posts/week-2/",
+      "section": "posts",
+      "title": "Week 2"
     }
   }
 }
